@@ -1,4 +1,4 @@
-# DeepLab-ResNet-Pytorch
+# DeepLabV2-ResNet-Pytorch
 
 
 This is an (re-)implementation of [DeepLab-ResNet](http://liangchiehchen.com/projects/DeepLabv2_resnet.html) in Pytorch for semantic image segmentation on the [PASCAL VOC dataset](http://host.robots.ox.ac.uk/pascal/VOC/).
